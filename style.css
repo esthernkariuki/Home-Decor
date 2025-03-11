@@ -1,0 +1,231 @@
+ body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;}
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+        
+    }
+    nav ul {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+    }
+    nav ul li {
+        display: inline;
+    }
+    nav ul li a {
+        text-decoration: none;
+        color: black}
+    .home {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0px 10px 5px 10px;
+       
+    }
+    .home1  {
+        font-size: 36px;
+        margin: 0;
+        margin-left:200px;
+        width:600px;
+        margin-right:-120px;
+        padding:180px 0px;
+
+
+    }
+    .home1 .buttons {
+        margin-top: 20px;}
+    .start {
+        padding: 10px 20px;
+        background: black;
+        
+        border: none;
+        cursor: pointer;}
+    
+    
+    .best-sellers {
+        padding: 50px;
+        
+        
+    }
+    .product-list {
+        display: flex;
+        justify-content: space-between;}
+    .offers {
+        display: flex;
+        justify-content: space-around;
+        padding: 0px;
+        
+       
+    }
+    .services {
+        text-align: center;
+        padding: 50px;
+        
+    }
+    .reviews {
+        text-align: center;
+        padding: 50px;
+        
+    }
+    footer {
+        text-align: center;
+        padding: 100px;
+        
+    }
+    .numbers{
+        display:flex;
+        gap:70px;
+        padding:50px 0px 50px 170px;
+        margin-top: -200px;
+        
+    }
+    .img{
+        display:flex;
+        float:right;
+        padding:0px  70px 70px 500px;
+        margin-left:-2500px;
+    }
+    .logo{
+        display:flex;
+        gap:20px;
+    }
+    .trendy{
+        text-align: center;
+        padding: 50px 50px 0px 50px;
+    }
+    .img2{
+        display:flex;
+        float:left;
+        padding:0px 10px 10px 30px;
+        margin-left:0%;
+        margin-top: -500px;
+    }
+    .transform{
+        float:right;
+        padding: 50px 100px 40px 1000px;
+        font-size:36px;
+        margin-left: -350px;
+    }
+    .stylish{
+        padding: 600px ;
+        display:inline-flex;
+        gap:100px;
+        margin-top:-500px;
+
+    }
+    .img3{
+        
+        display:flex;
+        padding:50px 100px 50px 300px;
+        margin-left:-300px;
+    }
+    .ideas{
+       width: 500px;
+       margin-left:-500px;
+       font-size:36px;
+    }
+
+    
+    .list{
+        display:flex;
+        gap:200px;
+    }
+    .offered{
+        align-content: center;
+        padding:50px 500px 50px 500px;
+    }
+    .img4{
+        float:left;
+        display:flex;
+        padding:0px 50px 50px 50px;
+        margin-top:-300px;
+    }
+    .review{
+        align-content: center;
+        margin-bottom: 200px;
+    }
+    .testimonials{
+        padding:500px 100px 1200px 150px;
+        
+    }
+    .vases{
+        padding:0px 180px 10px 100px ;}
+#home2{
+    border:3px dotted;
+}
+.container{
+    padding:20px;
+    margin:180px;
+    border:solid 1px;
+    
+   
+}
+.home3{
+    padding:120px;
+}
+.shop{
+    background-color:white;
+    color:black;
+    border-radius: 50px;
+    height:50px;
+
+}
+.start1{
+    background-color:white;
+    color:black;
+    border-radius: 50px;
+    height:30px;
+}
+start2{
+    border: none;
+}
+.promote{
+    margin-top: -600px;
+}
+.words{
+    font-size:20px;
+}
+.footer-columns{
+gap:150px;
+display:flex;
+
+
+}
+.copy{
+    margin-left:-900px;
+}
+.box{
+    border: 1px solid black;
+    width: 300px;
+    height: 380px;
+    background-color: rgb(80, 76, 76);
+    margin-left: 1250px;
+    margin-top: -100px;
+    rotate: 57deg;
+    border-radius: 70px;
+    z-index: -1;
+    position: absolute;
+}
+#ikea{
+    height:50px;
+    margin-top:50px;
+}
+.icons{
+    gap:150px;
+    padding: 20px 20px 0px 0px;
+}
+#deseino{
+    height: 100px;
+    
+}
+#latest,#express,#modern{
+    font-size:20px;
+}
+#heading{
+    font-size:25px;
+}
