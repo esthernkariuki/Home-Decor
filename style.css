@@ -2,32 +2,32 @@
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;}
-    header {
+header {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 5px;
         
     }
-    nav ul {
+nav ul {
         list-style: none;
         display: flex;
         gap: 20px;
     }
-    nav ul li {
+nav ul li {
         display: inline;
     }
-    nav ul li a {
+nav ul li a {
         text-decoration: none;
         color: black}
-    .home {
+.home {
         display: flex;
         align-items: center;
         justify-content: space-between;
         padding: 0px 10px 5px 10px;
        
     }
-    .home1  {
+.home1  {
         font-size: 36px;
         margin: 0;
         margin-left:200px;
@@ -37,9 +37,9 @@
 
 
     }
-    .home1 .buttons {
+.home1 .buttons {
         margin-top: 20px;}
-    .start {
+.start {
         padding: 10px 20px;
         background: black;
         
@@ -47,115 +47,116 @@
         cursor: pointer;}
     
     
-    .best-sellers {
+.best-sellers {
         padding: 50px;
         
         
     }
-    .product-list {
+.product-list {
         display: flex;
         justify-content: space-between;}
-    .offers {
+.offers {
         display: flex;
         justify-content: space-around;
         padding: 0px;
         
        
     }
-    .services {
+.services {
         text-align: center;
         padding: 50px;
         
     }
-    .reviews {
+.reviews {
         text-align: center;
         padding: 50px;
         
     }
-    footer {
+.footer {
         text-align: center;
         padding: 100px;
         
     }
-    .numbers{
+.numbers{
         display:flex;
         gap:70px;
         padding:50px 0px 50px 170px;
+        margin-top:-1200px;
         
         
         
         
     }
-    .img{
+.img{
         display:flex;
         float:right;
         padding:0px  70px 70px 500px;
         margin-left:100px;
     }
-    .logo{
+.logo{
         display:flex;
         gap:20px;
     }
-    .trendy{
+.trendy{
         text-align: center;
         padding: 50px 50px 0px 50px;
     }
-    .img2{
+.img2{
         display:flex;
         float:left;
         padding:0px 10px 10px 30px;
         margin-left:0%;
         margin-top: -500px;
     }
-    .transform{
+.transform{
         float:right;
         padding: 50px 100px 40px 1000px;
         font-size:36px;
         margin-left: -350px;
     }
-    .stylish{
+.stylish{
         padding: 600px ;
         display:inline-flex;
         gap:100px;
         margin-top:-500px;
 
     }
-    .img3{
+.img3{
         
         display:flex;
         padding:50px 100px 50px 300px;
         margin-left:-300px;
     }
-    .ideas{
+.ideas{
        width: 500px;
        margin-left:-500px;
        font-size:36px;
     }
 
     
-    .list{
+.list{
         display:flex;
         gap:200px;
     }
-    .offered{
+.offered{
         align-content: center;
         padding:50px 500px 50px 500px;
     }
-    .img4{
+.img4{
         float:left;
         display:flex;
         padding:0px 50px 50px 50px;
         margin-top:-300px;
     }
-    .review{
+.review{
         align-content: center;
         margin-bottom: 200px;
     }
-    .testimonials{
+.testimonials{
         padding:500px 100px 1200px 150px;
         
     }
-    .vases{
+.vases{
         padding:0px 180px 10px 100px ;}
 #home2{
     border:3px dotted;
@@ -183,7 +184,7 @@
     border-radius: 50px;
     height:30px;
 }
-start2{
+.start2{
     border: none;
 }
 .promote{
